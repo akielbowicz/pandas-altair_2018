@@ -1,11 +1,9 @@
-# pandas-altair_2018
+# Basta de loops, hagamos exploración de datos con Pandas y Altair.
 Taller a realizarse durante la PyConAr2018
 
 
 Los contenidos del taller los voy a subir la noche previa al taller.
 Pero para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimientos mínimos.
-
-
 
 
 ## Requerimientos
