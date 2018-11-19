@@ -1,0 +1,8 @@
+name: pandas-altair
+channels:
+          - conda-forge
+dependencies:
+          - python
+          - altair
+          - pandas
+          - jupyterlab
