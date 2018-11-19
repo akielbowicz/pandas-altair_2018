@@ -27,7 +27,8 @@ cd pandas-altair_2018
 ```
 
 Si no tenés python instalado, te recomiendo bajarte [miniconda](https://conda.io/miniconda.html)
-Una vez ya instalada
+
+Una vez ya instalada:
 
 Si estas en Windows, abrí la consola de miniconda desde la barra de inicio.
 
@@ -43,9 +44,11 @@ Una vez que termine de instalar todo, tenés que activar el ambiente de _conda_ 
 
 Alguno de estos comandos ( depende del ambiente y la consola ):
 
-`conda activate pandas-altair`
-`source activate pandas-altair`
-`activate pandas-altair`
+```bash
+conda activate pandas-altair
+source activate pandas-altair
+activate pandas-altair
+```
 
 Una vez activado hay que abrir Jupyter ejecutando:
 
