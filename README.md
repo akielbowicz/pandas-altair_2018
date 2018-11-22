@@ -62,3 +62,15 @@ Se va a abrir un navegador y ya podemos empezar a probar cosas.
 # Versiones Online
 
 Los notebooks también se pueden correr el online en [Google Colab](https://colab.research.google.com/github/akielbowicz/pandas-altair_2018/blob/master/notebooks/Indice.ipynb) o en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pandas-altair_2018/master?filepath=notebooks%2FIndice.ipynb) pero para el taller es recomendable tener una versión local, para no depender de la conexión de internet.
+
+
+# Conjuntos de datos
+
+En el taller se utilizaran tres conjuntos de datos de Presidentes, Senadores y Diputados de Argentina.
+
+Los datos de presidentes se extrajeron de la página de la Casa Rosada.
+Los datos de senadores se descargaron del sistema de datos abiertos de la Cámara de Senadores, el 28/10/2018.
+Los datos de diputados se descargaron del sistema de datos abiertos de la Cámara de Diputados, en las versiones:
+
+    firmantes-leyes-sancionadas1.5.csv 
+    diputados1.3.csv 
