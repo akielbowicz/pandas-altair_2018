@@ -1,0 +1,55 @@
+index,nombre,inicio_mandato,fin_mandato,nacimiento,defuncion,conyugue,de_facto,vicepresidente
+0,raúl alberto lastiri,1973-07-13,1973-10-12,1915-09-11,1978-12-11,amelia concepción martino,False,
+1,santiago derqui,1860-03-05,1861-11-05,1809-06-21,1867-09-05,modesta garcía de cossio,False,juan esteban pedernera
+2,miguel juárez celman,1886-10-12,1890-08-06,1844-09-29,1909-04-14,elisa funes,False,carlos pellegrini
+3,ramón s. castillo,1942-06-27,1943-06-04,1873-11-20,1944-10-12,maría delia luzuriaga,False,
+4,reynaldo benito bignone,1982-07-01,1983-12-10,1928-01-21,,nilda raquel belén,True,
+5,hipólito yrigoyen ,1916-10-12,1922-10-12,1852-07-12,1933-07-03,,False,pelagio luna
+6,victorino de la plaza,1914-08-09,1916-10-12,1840-11-02,1919-10-02,ecilda b. castellanos ,False,
+7,marcelo torcuato de alvear,1922-10-12,1928-10-12,1868-10-04,1942-03-23,regina paccini,False,elpidio gonzalez
+8,bartolomé mitre,1862-10-12,1868-10-12,1821-06-26,1906-01-19,delfina vedia,False,marcos paz
+9,edelmiro julián farrell,1944-02-25,1946-06-04,1887-02-12,1980-10-31,conrada victoria torni,True,juan domingo peron
+10,roberto marcelo levingston,1970-06-18,1971-03-22,1920-06-18,2015-06-17,betty nelly andrés,True,
+11,josé félix uriburu,1930-09-06,1932-02-20,1868-07-20,1932-04-29,aurelia madero buján,True,enrique santamarina
+12,juan domingo perón ,1946-06-04,1952-06-04,1895-10-08,1974-07-01,aurelia tizón ,False,juan hortensio quijano
+13,domingo faustino sarmiento,1868-10-12,1874-10-12,1811-02-15,1888-09-11,benita martínez pastoriza,False,adolfo alsina
+14,juan carlos onganía,1966-06-29,1970-06-08,1914-03-17,1995-06-08,maría emilia green urien,True,
+15,bernardino rivadavia,1826-02-08,1827-06-27,1780-05-20,1845-09-02,juana del pino,False,
+16,roberto marcelino ortiz,1938-02-20,1942-06-27,1886-09-24,1942-07-15,maría luisa iribarne,False,ramon s castillo
+17,fernando de la rúa,1999-12-10,2001-12-20,1937-09-15,,inés pertiné,False,carlos alvarez 
+18,néstor carlos kirchner,2003-05-25,2007-12-10,1950-02-25,2010-10-27,cristina elizabet fernández,False,daniel scioli
+19,federico ramón puerta,2001-12-21,2001-12-23,1951-09-09,,,False,
+20,hipólito yrigoyen ,1928-10-12,1930-09-06,1852-07-12,1933-07-03,,False,enrique martinez
+21,manuel quintana,1904-10-12,1906-03-12,1835-10-18,1906-03-12,susana rodríguez viana,False,jose figueroa alcorta
+22,juan domingo perón ,1973-10-12,1974-07-01,1895-10-08,1974-07-01,aurelia tizón ,False,
+23,eduardo oscar camaño,2001-12-30,2002-01-01,1946-06-17,,,False,
+24,arturo frondizi,1958-05-01,1962-03-29,1908-10-28,1995-04-18,elena faggionato,False,alejandro gomez 
+25,cristina elizabet fernández,2007-12-10,2011-12-10,1953-02-19,,néstor carlos kirchner,False,julio cesar cleto cobos
+26,josé maría guido,1962-03-29,1963-10-12,1910-08-29,1975-06-13,purificación areal,False,
+27,maría estela martínez,1974-07-01,1976-03-24,1931-02-04,,juan domingo perón,False,
+28,julio argentino roca ,1898-10-12,1904-10-12,1843-07-17,1914-10-19,clara funes,False,norberto quirno costa
+29,eduardo lonardi,1955-09-23,1955-11-13,1896-09-15,1956-03-22,mercedes villada achával,True,isaac francisco rojas
+30,josé figueroa alcorta,1906-03-12,1910-10-12,1860-11-20,1931-12-27,josefa julia bouquet,False,
+31,carlos saúl menem ,1995-12-10,1999-12-10,1930-07-02,,zulema yoma,False,carlos federico ruckauf
+32,carlos saúl menem ,1989-07-08,1995-12-10,1930-07-02,,zulema yoma,False,eduardo alberto duhalde 
+33,adolfo rodríguez saá,2001-12-23,2001-12-30,1947-07-25,,maría alicia mazzarino,False,
+34,arturo umberto illia,1963-10-12,1966-06-28,1900-08-04,1983-01-18,silvia martorell,False,carlos humberto perette
+35,cristina elizabet fernández,2011-12-10,2015-12-09,1953-02-19,,néstor carlos kirchner,False,amado boudou
+36,josé evaristo uriburu,1895-01-23,1898-10-12,1831-11-19,1914-10-23,virginia uriburu,False,
+37,roberto eduardo viola,1981-12-11,1981-03-29,1924-10-13,1994-09-30,nélida giorgio valente,True,
+38,eduardo alberto duhalde,2002-01-02,2003-05-25,1941-10-05,,hilda beatriz gonzález ,False,
+39,carlos pellegrini,1890-10-06,1892-10-12,1846-10-11,1906-07-17,carolina lagos,False,
+40,héctor josé campora,1973-05-25,1973-07-13,1909-03-26,1980-12-19,maría georgina cecilia acevedo,False,vicente solano lima
+41,roque sáenz peña,1910-10-12,1914-08-09,1851-03-19,1914-08-09,rosa gonzález,False,victorino de la plaza
+42,pedro pablo ramírez,1943-06-07,1944-02-25,1884-01-30,1962-06-11,maría inés lobato,True,saba h sueyro 
+43,jorge rafael videla,1976-03-29,1981-03-29,1925-08-02,2013-05-17,alicia raque hartridge,True,
+44,raúl ricardo alfonsín,1983-12-10,1989-07-08,1927-03-12,2009-03-31,maría lorenza barreneche,False,victor hipolito martinez
+45,julio argentino roca ,1880-10-12,1886-10-12,1843-07-17,1914-10-19,clara funes,False,francisco bernabe madero
+46,pedro eugenio aramburu,1955-11-13,1958-05-01,1903-05-21,1970-06-01,sara lucía herrera,True,isaac francisco rojas
+47,alejandro agustín lanusse,1971-03-26,1973-05-25,1918-08-28,1996-08-26,illeana bell bidart,True,
+48,justo josé de urquiza,1854-03-05,1860-03-05,1801-10-18,1870-04-11,dolores costa,False,salvador maria del carril
+49,leopoldo fortunato galtieri,1981-12-22,1982-06-18,1926-07-15,2003-01-12,lucía noemí gentili,True,
+50,luis sáenz peña,1892-10-12,1895-01-23,1822-04-02,1907-12-04,cipriana lahitte,False,jose evaristo uriburu
+51,nicolás avellaneda,1874-10-12,1880-10-12,1837-10-03,1885-11-25,carmen nóbrega miguens,False,mariano acosta
+52,juan domingo perón ,1952-06-04,1955-09-21,1895-10-08,1974-07-01,aurelia tizón ,False,juan hortensio quijano 
+53,agustín pedro justo,1932-02-20,1938-02-20,1876-02-26,1943-01-11,ana encarnación bernal,False,julio argentino pascual roca
